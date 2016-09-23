@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "A Todo example showcase ",
   "main": "server.js",
   "repository": {
     "type": "git",
@@ -12,7 +12,8 @@
     "async": "~0.2.8",
     "body-parser": "^1.13.3",
     "express": "^4.13.3",
-    "socket.io": "~0.9.14"
+    "underscore": "^1.8.3"
+    
   },
   "scripts": {
     "start": "node server.js"
